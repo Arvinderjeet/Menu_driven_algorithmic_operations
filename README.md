@@ -43,19 +43,19 @@ This program provides a menu-driven approach to perform various operations on di
 1. **Clone the repository to your local machine:**
 
    ```bash
-   git clone https://github.com/your_username/combined-data-structures-algorithms.git
+   git clone https://github.com/Arvinderjeet/data_structures_and_algorithms.git
    ```
 
 2. **Compile the program using a C++ compiler:**
 
    ```bash
-   g++ main.cpp -o program
+   g++ main.cpp -o execute
    ```
 
 3. **Run the executable:**
 
    ```bash
-   ./program
+   ./execute
    ```
 
 4. **Follow the on-screen menu to select the desired operation and input data accordingly.**
