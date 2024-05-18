@@ -45,20 +45,24 @@ This program provides a menu-driven approach to perform various operations on di
    ```bash
    git clone https://github.com/Arvinderjeet/data_structures_and_algorithms.git
    ```
-
-2. **Compile the program using a C++ compiler:**
+2. **change directory to data_structures_and_algorithms:**
+   ```
+   cd data_structures_and_algorithms
+   ```
+   
+3. **Compile the program using a C++ compiler:**
 
    ```bash
    g++ main.cpp -o execute
    ```
 
-3. **Run the executable:**
+4. **Run the executable:**
 
    ```bash
-   ./execute
+   execute.exe
    ```
 
-4. **Follow the on-screen menu to select the desired operation and input data accordingly.**
+5. **Follow the on-screen menu to select the desired operation and input data accordingly.**
 
 ## Contribution
 
